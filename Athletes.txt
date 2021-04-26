@@ -1,0 +1,8 @@
+1 USA 45.45 feestyle Caeleb Dressel
+4 Germany 46.01 feestyle Leonie Beck
+6 France 46.11 feestyle Alain Bernard
+7 Australia 46.22 feestyle Kyle Chalmers
+9 USA 46.79 feestyle Zach Apple
+10 USA 45.58 feestyle Nathan Adrian
+12 France 45.47 feestyle Amaury Leveaux
+14 Belgium 46.89 feestyle Pieter Timmers
